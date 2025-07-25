@@ -1,66 +1,33 @@
-# 📊 Bike Sales Dashboard | Excel 
+# 📊 Bike Sales Analysis Dashboard | Excel 
 
-# 📝 Description
-An interactive dashboard built in Microsoft Excel to analyze customer behavior related to bike purchases. The project involved cleaning a dataset of 1,026 entries and visualizing key trends using Pivot Tables, Charts, and Slicers.
+# 📝 Description:
+Analyzed purchasing behavior of 1026 customers to uncover insights about who buys bikes and why. Created an interactive Excel dashboard with slicers to visualize patterns across age, gender, commute, and geography.
 
-# 👩‍💻 Tools Used
-Microsoft Excel (Pivot Tables, Charts, Slicers)
+# 🛠️ Key Tasks:
+Cleaned raw data (1027 rows, 13 columns) by removing duplicates and standardizing categorical values
 
-# 📁 Dataset
-Source: Excel file
+Created a new Age Brackets column for better segmentation
 
-Rows: 1,027 (including header)
+Built pivot tables analyzing bike purchase patterns by age, income, gender, and commute distance
 
-Columns:
+Designed an interactive dashboard with filters for marital status, region, and education
 
-ID
+# 📊 Conclusion with Insights:
+48% of customers purchased bikes
 
-Marital Status
+Middle-aged customers (31–54) had the highest purchase rate
 
-Gender
+Gender had minimal impact—purchase rates were similar for males and females
 
-Income
+Region mattered most:
 
-Children
+  Pacific had the highest purchase rate (~59%)
 
-Education
+  North America lagged behind
 
-Occupation
+# 🧠 Skills & Tools:
+Microsoft Excel | Pivot Tables | Dashboarding | Data Cleaning | Data Visualization 
 
-Home Owner
-
-Cars
-
-Commute Distance
-
-Region
-
-Age
-
-Purchased Bike
-
-# 🔄 Key Steps
-Data Cleaning & Preparation
-
-Data Visualization with Pivot Tables
-
-Dashboard Creation
-
-# ✅ Key Insights
-Middle-aged individuals are more likely to purchase bikes
-
-Gender and income significantly impact purchase behavior
-
-Long-distance commuters show higher purchase tendency
-
-Marital status is a strong segmentation factor
-
-# 📥 How to Use
-Open the Excel file
-
-Use the slicers to interact with the data
-
-Observe dynamic changes in charts for better insights
 
 # 👤 Author
 Shruti Walunj
