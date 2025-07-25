@@ -1,4 +1,4 @@
-# 📊 Bike Sales Analysis Dashboard | Excel 
+# 📊 Bike Sales Analysis Dashboard using Excel 
 
 # 📝 Description:
 Analyzed purchasing behavior of 1026 customers to uncover insights about who buys bikes and why. Created an interactive Excel dashboard with slicers to visualize patterns across age, gender, commute, and geography.
