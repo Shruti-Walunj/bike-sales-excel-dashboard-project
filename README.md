@@ -17,7 +17,7 @@ Designed an interactive dashboard with filters for marital status, region, and e
 
 Middle-aged customers (31–54) had the highest purchase rate
 
-Gender had minimal impact—purchase rates were similar for males and females
+Gender had minimal impact as purchase rates were similar for males and females
 
 Region mattered most:
 
